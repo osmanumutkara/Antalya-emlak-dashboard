@@ -123,22 +123,7 @@ Excel üzerinde tamamen **dinamik bir tahmin sistemi** kurulmuştur.
 
 ---
 
-## 🏁 Sonuç
-Bu proje:
 
-- **Gerçek hayat verisi** ile çalışır  
-- **Tamamen uçtan uca** bir veri analitiği ve dashboard geliştirme sürecidir  
-- Hem **iş zekası**, hem **veri toplama**, hem **modelleme** yeteneğini gösterir  
-- GitHub portföyünde çok güçlü durur  
-
-Eğer istersen proje için:
-
-- Yeni bir tasarım  
-- Daha gelişmiş ML modeli  
-- Power BI versiyonu  
-- Excel dosyasının optimize edilmesi  
-
-gibi ek geliştirmeler de hazırlayabilirim.
 
 
 
